@@ -1,0 +1,30 @@
+header{
+    width: 800 px;
+    margin: 0 auto;
+    padding: 50 px;
+    background-color: #eee;
+    border: 1 px solid blue;
+    border-radius: 10 px;
+    font-weight: bold;
+    text-align: center;
+}
+
+div {
+    width: 800 px;
+    margin: 0 auto;
+    padding: 50 px;
+    text-align: center;
+
+}
+
+button {
+    padding: 20 px;
+    font-weight: bold;
+
+}
+
+button:hover {
+    background-color:  black;
+    color:  white;
+}
+
